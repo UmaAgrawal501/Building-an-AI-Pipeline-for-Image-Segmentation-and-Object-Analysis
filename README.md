@@ -13,3 +13,10 @@ Data Extraction: Extracts and analyzes relevant information from the detected ob
 Summary Table: Generates a summary table with mapped data for each detected object, including unique IDs, descriptions, extracted text, and additional analysis.
 
 In an AI pipeline, summarizing text involves processing and condensing textual data extracted from various sources such as images, documents, or web pages. The goal is to create a brief, coherent summary that captures the key points and essential information.
+
+In this project using models like #mask_rcnn_inception_v2_coco_2018_01_28 and frozen_inference_graph for image segmentation. and various libraries
+#opencv
+#matplotlib
+#NumPy
+#Pandas
+#NLTK
