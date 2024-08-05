@@ -16,7 +16,11 @@ In an AI pipeline, summarizing text involves processing and condensing textual d
 
 In this project using models like #mask_rcnn_inception_v2_coco_2018_01_28 and frozen_inference_graph for image segmentation. and various libraries
 #opencv
+
 #matplotlib
+
 #NumPy
+
 #Pandas
+
 #NLTK
