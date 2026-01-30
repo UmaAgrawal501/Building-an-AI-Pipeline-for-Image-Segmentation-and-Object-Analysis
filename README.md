@@ -1,4 +1,3 @@
-# uma-wasserstoff-AiInternTask
 #AI Pipeline
 This repository provides a robust AI pipeline for image processing that leverages deep learning models and transformers to segment, identify, and analyze objects within an input image. The pipeline integrates state-of-the-art models to perform image segmentation, object detection, and data extraction. It outputs a detailed summary table mapping each detected object with relevant attributes.
 #Features
